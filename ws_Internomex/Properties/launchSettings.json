@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ws_Internomex": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
